@@ -159,7 +159,7 @@ int main()
         printf("2 - for see people sorted by birth year\n");
         printf("3 - for show the oldest person\n");
         printf("4 - for see one person data\n");
-        printf("5 -  to see guys without bidza < 63\n");
+        printf("5 -  to see guys without old  < 63\n");
         printf("0 - for exit\n");
         scanf("%d", &out);
 
